@@ -1,1 +1,3 @@
 # ObceVKruhuDesign
+
+- Choosen Design
